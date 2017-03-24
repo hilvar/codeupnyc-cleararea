@@ -1,2 +1,2 @@
-### Template for House Building
+### Clears an area to make it easier to build
 
